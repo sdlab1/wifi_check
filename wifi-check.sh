@@ -2,7 +2,7 @@
 #
 # wifi-check.sh — комплексная диагностика Wi-Fi и интернет-соединения в Linux
 #
-# GitHub: https://github.com/USERNAME/wifi-diagnostic
+# GitHub: https://github.com/sdlab1/wifi-diagnostic
 # License: MIT
 #
 set -uo pipefail
